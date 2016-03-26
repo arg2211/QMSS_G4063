@@ -21,7 +21,13 @@ This course is designed to equip QMSS students with tools from datascience for c
 
 * harvesting data from web platforms such as Twitter API,
 * running analysis with social scientific import on the data they collected (R  and  Python), and
-* using effective visualization methodology for a) interactive web-based design (R Shiny and D3) b) social network analysis (Gephi, igraph) c) text analytics and visualization (in R) d) GIS (QGIS) e) Statistical analysis and visualization (R's  ggplot2, Shiny).
+* using effective visualization methodology for 
+
+1. Interactive web-based design (RShiny and D3) 
+2. Social network analysis (D3 and RShiny) 
+3. GIS (D3 and RShiny) 
+4. Text analytics and visualization (in R) 
+5. Statistical analysis and visualization (R's  ggplot2, RShiny).
 
 Familiarity with relevant software tools would be a plus, but is not necessary as we will have tutorials on the essential software through the semester.
 
@@ -30,31 +36,46 @@ Familiarity with relevant software tools would be a plus, but is not necessary a
 
 ### Week  1,  January  19:  Course  Introduction,  Visualization  types  -  TwitterAPI set up
 
-###[Lecture 1](/lectures/lecture1.md)
+###[Lecture 1](/lectures/lecture01.md)
 
 ## Part 1:  Interactive Graphs with Twitter Data (Shiny, D3)
 
 ### Week 2, 1.1, January 26:  Shiny Apps, Word frequency plots, Time-series visualization
 
-###[Lecture 2](/lectures/lecture2.md)
+###[Lecture 2](/lectures/lecture02.md)
 
 ### Week 3 & 4, 1.2 & 1.3, February 2 & 9: Interactive Visualization with Shiny & D3 using Twitter Data
 
-###[Lecture 3](/lectures/lecture3.md)
+###[Lecture 3](/lectures/lecture03.md)
 
-###[Lecture 4](/lectures/lecture4.md)
+###[Lecture 4](/lectures/lecture04.md)
+
 
 ## Part 2:  Social Network Analysis and Visualization
 
+###[Lecture 5](/lectures/lecture05.md)
+
+###[Lecture 6](/lectures/lecture06.md)
 
 
-## Part 3:  Text Analysis and Visualization
+## Part 3:  GIS Analysis and Visualization
+
+###[Lecture 7](/lectures/lecture07.md)
+
+###[Lecture 8](/lectures/lecture08.md)
 
 
+## Part 4:  Text Analysis and Visualization
 
-## Part 4:  GIS Analysis and Visualization
+###[Lecture 9](/lectures/lecture09.md)
 
+###[Lecture 10](/lectures/lecture10.md)
 
 
 ## Part 5:  Statistical Visualization, Machine Learning & Prediction
+
+###[Lecture 11](/lectures/lecture11.md)
+
+###[Lecture 12](/lectures/lecture12.md)
+
 
